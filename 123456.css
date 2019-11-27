@@ -1,0 +1,137 @@
+div.bg{
+			top: 0;
+			bottom: 0;
+			left: 0;
+			right: 0;
+			position: fixed;
+			z-index: -1000;
+		}
+		.abc{
+            height: 50px;
+            width: 80%;
+			text-align:center;
+			background-color: #FFFF77;
+			padding-top: 1%;
+		}
+		.container{
+            width: 100%
+            padding-right: 10px;
+            padding-left: 10px;
+            margin-right: auto;
+            margin-left: auto;}
+        .container-fluid{
+            width: 100%;
+            padding-right: 15px;
+            padding-left: 15px;
+            margin-right: auto;
+            margin-left: auto;
+            }
+		.zzz{
+        	opacity: 0.5;
+        	min-width: 100%;
+        	min-height: 1000px;
+        	width: 100%;
+        }
+        aside{
+        	margin-top: 5%;
+        	margin-right: 5%;
+			width: 560px;
+			height: 720px;
+			background-color: #C2DEB9;
+			text-align: left;
+			float: right;
+        }
+        .call{
+        	margin-top: 5%;
+        	margin-left: 5%; 
+			width: 50%;
+			height: 720px;
+			background-color: #C2DEB9;
+			text-align: left;
+			float: left;
+        }
+        .intt{
+        	margin-top: 3%;
+        	margin-left: 5%;
+			width:50%;
+			height: 400px;
+			background-color: #C2DEB9;
+			text-align: left;
+			float: left;
+        }
+        .hope{
+        	margin-top: 3%;
+        	margin-right:5%;
+			width: 560px;
+			height: 400px;
+			background-color: #C2DEB9;
+			text-align: left;
+			float: right;
+        }
+        .futrue{
+        	margin-top: 3%;
+        	margin-left: 5%;
+			width: 1200px;
+			height: 200px;
+			background-color: #C2DEB9;
+			text-align: left;
+			float: left;
+        }
+        .life{
+        	margin-top: 5%;
+        	margin-left: 5%;
+			width: 1200px;
+			height: 600px;
+			background-color: #C2DEB9;
+			text-align: left;
+			float: left;
+        }
+        h1{
+        	font-size: 42px;
+
+        }
+        .xxx{
+        	
+            height: 225px;
+            width: 300px;
+            position: relative;
+            float: left;
+            margin-right: 10px;
+            margin-bottom: 10px;
+
+        }
+        nav.top{
+			width: 1400px;
+			height:90px;
+			background-color:#61BCB4;
+			margin-top: 3%;
+		}
+		#menu li{
+             text-decoration: none;
+            list-style: none;
+            display: inline;
+            border: 1px solid #CAFFFF; 
+            margin: 10px;
+         }
+		div.run{
+
+			width: 1200px;
+			height: 30px;
+			background-color: #FFD85E;
+			font-weight: bolder;
+			font-size: 22px;
+			margin-left: 152px;
+		}
+    footer{
+    position:relative;
+ width: 99%;
+ height: 50px;
+ background-color:#C7D6DB;
+ color: #00B2B2;
+ text-align: center;
+ line-height: 50px;
+ border:5px solid #ebebe3;
+ clear: both;
+}  	
+       
+　    
